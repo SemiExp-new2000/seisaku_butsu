@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+table {
+    width: 1800px;
+    height: 650px;
+    font-size: 400%;
+    font-family: UD デジタル 教科書体 N-B;
+}
+h1 {
+   font-family: UD デジタル 教科書体 N-B;
+   font-size: 300%;
+}
